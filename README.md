@@ -1,3 +1,4 @@
+/*
 # test-totalPages
 
 #### ให้เขียน Function ชื่อ totalPages (arrayItems, rowsPerPage) โดยที่ arrayItems คือ array ของรายการ Items ทั้งหมด และ rowsPerPage คือ จำนวนรายการ Item ที่จะแสดงต่อ 1 Page โดยฟังก์ชันจะ return จำนวน page ที่คำนวณได้
@@ -15,3 +16,4 @@
   6. arrayItems = [item1, item2, item3,…, item25] , rowsPerPage = undefined return 1
   7. arrayItems = null, rowsPerPage = 20 return undefined
   8. arrayItems = undefined, rowsPerPage = 20 return undefined
+*/
